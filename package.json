@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/progmichaelkibenko/cfg-file-changer/issues"
   },
-  "homepage": "https://github.com/progmichaelkibenko/cfg-file-changer#readme"
+  "homepage": "https://github.com/progmichaelkibenko/cfg-file-changer#readme",
+  "dependencies": {
+    "iconv": "^3.0.1"
+  }
 }
